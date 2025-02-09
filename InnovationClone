@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innomatics Clone</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <img src="https://tse3.mm.bing.net/th?id=OIP.VMFI_j_thygv2wTp68wVuQHaBW&pid=Api&P=0&h=180" alt="Innomatics Logo" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#it-scholars">IT Scholars Program</a></li>
+                    <li><a href="#internship">Internship</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#events">Events</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="hero">
+        <h1>Welcome to Innomatics</h1>
+        <p>Empowering individuals with skills and industry-ready programs.</p>
+        <a href="#courses" class="btn">Explore Courses</a>
+    </section>
+
+
+    <section id="courses" class="courses">
+        <h2>Our Courses</h2>
+        <div class="course-container">
+            <div class="course">
+                <img src="https://tse4.mm.bing.net/th?id=OIP.G1k-9cqNiY5OpnjsqK_AAgHaCU&pid=Api&P=0&h=180" alt="Course 1">
+                <p>Learn cutting-edge AI technologies and Data Science skills.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="course">
+                <img src="https://tse3.mm.bing.net/th?id=OIP.xq4DrGVZ-BnV94dlfI3MSwHaCU&pid=Api&P=0&h=180" alt="Course 2">
+                <h3>Full Stack Web Development</h3>
+                <p>Master frontend & backend technologies for modern applications.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="course">
+                <img src="https://tse1.mm.bing.net/th?id=OIP.lJGcC89QKTZXrpv6tjfUOwHaDt&pid=Api&P=0&h=180" alt="Course 3">
+                <h3>Cybersecurity</h3>
+                <p>Enhance security skills and combat cyber threats.</p>
+                <a href="#">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials" class="testimonials">
+        <h2>What Our Students Say</h2>
+        <div class="testimonial-container">
+            <div class="testimonial">
+                <img src="https://www.innomatics.in/wp-content/uploads/2023/03/Thirukkovela-Srija-1.jpg" alt="Student 1">
+                <p>"Innomatics helped me transition into Data Science seamlessly!"</p>
+                <h4>- THIRUKKOVELA SRIJA</h4>
+            </div>
+            <div class="testimonial">
+                <img src="https://www.innomatics.in/wp-content/uploads/2023/03/VINAY.jpg" alt="Student 2">
+                <p>"The hands-on learning experience is amazing!"</p>
+                <h4>- GOGULA VINAY</h4>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="blog" class="blog">
+        <h2>Latest Blog Posts</h2>
+        <div class="blog-container">
+            <div class="blog-post">
+                <h3>5 Must-Have Skills for a Data Scientist</h3>
+                <p>Discover the key skills to become a successful data scientist.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="blog-post">
+                <h3>Web Development Trends 2024</h3>
+                <p>Stay ahead in web development with the latest trends.</p>
+                <a href="#">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2024 Innomatics Clone|All right</p>
+            <ul class="social-links">
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">LinkedIn</a></li>
+                <li><a href="#">Instagram</a></li>
+            </ul>
+        </div>
+    </footer>
+
+</body>
+
+</html>
